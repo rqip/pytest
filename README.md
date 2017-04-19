@@ -1,1 +1,1 @@
-# pytest
+# pytest. Repo for Python tests.
